@@ -1,0 +1,13 @@
+.center {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+body {
+    background: #000000 url('images/Background.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    min-height: 100vh;
+    margin: 0;
+}
