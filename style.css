@@ -13,4 +13,24 @@ body {
 }
 .context {
     text-align: center;
+    font-size: large;
+}
+.side {
+    text-align: bold;
+    position: absolute;
+    left: 36%;
+    top: 530px;
+    font-style: italic;
+    font-size: 43px;
+}
+.side-context {
+    position: absolute;
+    left: 38%;
+    font-size: large;
+}
+.side-head {
+    position: absolute;
+    left: 38%;
+    font-style: italic;
+    text-align: bold;
 }
